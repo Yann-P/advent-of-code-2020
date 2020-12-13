@@ -20,7 +20,7 @@ In the above example, 2 passwords are valid. The middle password, cdefg, is not;
 
 How many passwords are valid according to their policies?
 
-Your puzzle answer was 638.
+Your puzzle answer was [redacted].
 --- Part Two ---
 
 While it appears you validated the passwords correctly, they don't seem to be what the Official Toboggan Corporate Authentication System is expecting.
@@ -37,7 +37,7 @@ Given the same example list from above:
 
 How many passwords are valid according to the new interpretation of the policies?
 
-Your puzzle answer was 699.
+Your puzzle answer was [redacted].
 
 Both parts of this puzzle are complete! They provide two gold stars: **
 
